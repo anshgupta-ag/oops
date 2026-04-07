@@ -1,0 +1,12 @@
+1|Paneer Butter Masala|Veg|180.00|1
+2|Dal Tadka|Veg|120.00|1
+3|Veg Biryani|Veg|160.00|1
+4|Aloo Paratha|Veg|80.00|1
+5|Chicken Biryani|Non-Veg|220.00|1
+6|Butter Chicken|Non-Veg|240.00|1
+7|Mutton Rogan Josh|Non-Veg|280.00|1
+8|Egg Fried Rice|Non-Veg|140.00|1
+9|Mango Lassi|Drinks|60.00|1
+10|Masala Chai|Drinks|30.00|1
+11|Fresh Lime Soda|Drinks|40.00|1
+12|Cold Coffee|Drinks|70.00|1
